@@ -35,16 +35,23 @@ header {
 	}
 
 	.company-name {
-		font-size: 1.7em;
+		font-size: 1.2em;
 		line-height: 0;
 
 		a {
 			display: inline-block;
+
+      > div {
+        display: inline-block;
+        vertical-align: super;
+        font-size: 1em;
+      }
 		}
 
 		img {
-			display: block;
+			display: inline-block;
 			width: auto;
+      margin-right: 3px;
 		}
 	}
 }
@@ -69,7 +76,7 @@ header {
 }
 
 section {
-	padding: 100px 0;
+	padding: 40px 0;
 }
 
 section + section {
