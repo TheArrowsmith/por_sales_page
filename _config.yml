@@ -2,7 +2,7 @@
 # Site
 
 title: Phoenix on Rails
-url: "https://proud-alligator.cloudvent.net"
+url: "http://phoenixonrails.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -11,7 +11,7 @@ port: 1029
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Elixir and Phoenix for Rails developers
 author:
   name:
   email:
